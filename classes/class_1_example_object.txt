@@ -1,0 +1,15 @@
+Object: Family Table
+
+Attributes:
+
+seatsAvailable: 8
+color: "Black"
+shape: "rectangle"
+isBooth: false
+
+Methods:
+
+occupySeat: 8 - 1 = 7 ( available seats)
+changeColor: color = "brown"
+changeShape: shape = "circle"
+requestBooth: isBooth = true 

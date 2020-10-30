@@ -1,0 +1,15 @@
+Class: Table
+
+Attributes:
+
+seatsAvailable (integer)
+color (string)
+shape (string)
+isBooth (boolean)
+
+Methods:
+
+occupySeat (decrements seatsAvailable)
+changeColor (re-assigns color)
+changeShape (re-assigns shape)
+requestBooth (toggles isBooth to true)

@@ -1,0 +1,15 @@
+Class: Recipt
+
+Attributes:
+
+isPaper(boolean)
+hasDiscount (boolean)
+mealList (array "string")
+total: (float)
+
+Methods:
+
+requestDigital (toggles isPaper to false)
+applyDiscount (toggles hasDiscount to true)
+addMeal (appends mealList)
+total (modifies total)

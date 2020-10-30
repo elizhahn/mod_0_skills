@@ -1,0 +1,15 @@
+Class: Recipt
+
+Attributes:
+
+isPaper: true
+hasDiscount: false
+mealList: ["cheese burger", "french fries", "spaghetti"]
+total: 20.65
+
+Methods:
+
+requestDigital: isPaper = false
+applyDiscount hasDiscount = true
+addMeal: mealList = ["cheese burger", "french fries", "spaghetti", "salad"], total = 34.65
+removeMeal: mealList = ["cheese burger", "french fries"] total = 16.65
