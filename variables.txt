@@ -1,0 +1,17 @@
+var food = "Spaghetti";
+
+var is_delicous = true;
+
+food = "cheeseburger";
+
+var num2 = 13;
+
+num7 = 14;
+
+var quotient = (num7 / num2);
+
+var songs = ["Love", "You are my sunshine", "Hallelujah"];
+
+songs.shift();
+
+food.length(); 
